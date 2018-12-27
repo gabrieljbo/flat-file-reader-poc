@@ -1,4 +1,4 @@
-package domain;
+package dev.gabrieljbo.poc.domain;
 
 import java.time.ZoneId;
 
